@@ -1,0 +1,14 @@
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\obj\Debug\net8.0\Workers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\obj\Debug\net8.0\Workers.AssemblyInfoInputs.cache
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\obj\Debug\net8.0\Workers.AssemblyInfo.cs
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\obj\Debug\net8.0\Workers.csproj.CoreCompileInputs.cache
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\bin\Debug\net8.0\Workers.exe
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\bin\Debug\net8.0\Workers.deps.json
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\bin\Debug\net8.0\Workers.runtimeconfig.json
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\bin\Debug\net8.0\Workers.dll
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\bin\Debug\net8.0\Workers.pdb
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\obj\Debug\net8.0\Workers.dll
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\obj\Debug\net8.0\refint\Workers.dll
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\obj\Debug\net8.0\Workers.pdb
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\obj\Debug\net8.0\Workers.genruntimeconfig.cache
+D:\Programowanie\WSEI\NAUKA\PO\Lab2\Workers\obj\Debug\net8.0\ref\Workers.dll

@@ -1,0 +1,14 @@
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\bin\Debug\net8.0\Fraction.exe
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\bin\Debug\net8.0\Fraction.deps.json
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\bin\Debug\net8.0\Fraction.runtimeconfig.json
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\bin\Debug\net8.0\Fraction.dll
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\bin\Debug\net8.0\Fraction.pdb
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\obj\Debug\net8.0\Fraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\obj\Debug\net8.0\Fraction.AssemblyInfoInputs.cache
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\obj\Debug\net8.0\Fraction.AssemblyInfo.cs
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\obj\Debug\net8.0\Fraction.csproj.CoreCompileInputs.cache
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\obj\Debug\net8.0\Fraction.dll
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\obj\Debug\net8.0\refint\Fraction.dll
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\obj\Debug\net8.0\Fraction.pdb
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\obj\Debug\net8.0\Fraction.genruntimeconfig.cache
+D:\Programowanie\WSEI\NAUKA\PO\Lab1\Fraction\obj\Debug\net8.0\ref\Fraction.dll
