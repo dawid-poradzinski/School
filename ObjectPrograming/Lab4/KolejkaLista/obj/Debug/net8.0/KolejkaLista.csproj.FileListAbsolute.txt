@@ -1,0 +1,14 @@
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\bin\Debug\net8.0\KolejkaLista.exe
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\bin\Debug\net8.0\KolejkaLista.deps.json
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\bin\Debug\net8.0\KolejkaLista.runtimeconfig.json
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\bin\Debug\net8.0\KolejkaLista.dll
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\bin\Debug\net8.0\KolejkaLista.pdb
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\obj\Debug\net8.0\KolejkaLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\obj\Debug\net8.0\KolejkaLista.AssemblyInfoInputs.cache
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\obj\Debug\net8.0\KolejkaLista.AssemblyInfo.cs
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\obj\Debug\net8.0\KolejkaLista.csproj.CoreCompileInputs.cache
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\obj\Debug\net8.0\KolejkaLista.dll
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\obj\Debug\net8.0\refint\KolejkaLista.dll
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\obj\Debug\net8.0\KolejkaLista.pdb
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\obj\Debug\net8.0\KolejkaLista.genruntimeconfig.cache
+D:\Users\dawid.poradzinski\prace\19.03.2024\KolejkaLista\obj\Debug\net8.0\ref\KolejkaLista.dll

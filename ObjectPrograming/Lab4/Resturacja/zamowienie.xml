@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <table>
+    <key>10</key>
+    <zam>
+      <stringz>Zupa dnia</stringz>
+      <stringz>Losos</stringz>
+      <cena>56.5</cena>
+    </zam>
+  </table>
+  <table>
+    <key>4</key>
+    <zam>
+      <stringz>Bulka</stringz>
+      <stringz>Losos</stringz>
+      <cena>40.5</cena>
+    </zam>
+  </table>
+</root>
